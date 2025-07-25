@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Elisabeth 👋
 
-<!--
-**hadzice24/hadzice24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Incoming Data Science student at Penn State, with a strong foundation in analytics and a passion for using data to tell clear, impactful stories.
 
-Here are some ideas to get you started:
+🚀 Currently focused on SQL, Tableau, and Python — building real-world projects in sports, travel, and entertainment to sharpen my skills and explore data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills & Tools** 
+- SQL (PostgreSQL, SQLite, Beekeeper Studio)  
+- Tableau (dashboards, KPIs, segmentation)  
+- Excel & Google Sheets (data cleaning, metrics)  
+- Python (pandas, NumPy, seaborn)  
+- Canva, PowerPoint (visual storytelling)
+
+
+💬 **Let’s connect!**
+
+Open to internships, collaborations, and mentorship in data analytics or sports analytics.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/elisabethhadzic)
